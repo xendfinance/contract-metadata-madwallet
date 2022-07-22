@@ -1,0 +1,226 @@
+{
+  "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+    "name": "Dai Stablecoin",
+    "logo": "polygon/dai.png",
+    "erc20": true,
+    "symbol": "DAI",
+    "decimals": 18
+  },
+  "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
+    "name": "Aave",
+    "logo": "polygon/aave.png",
+    "erc20": true,
+    "symbol": "AAVE",
+    "decimals": 18
+  },
+  "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
+    "name": "Uniswap",
+    "logo": "polygon/uni.png",
+    "erc20": true,
+    "symbol": "UNI",
+    "decimals": 18
+  },
+  "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c": {
+    "name": "Compound",
+    "logo": "polygon/comp.png",
+    "erc20": true,
+    "symbol": "COMP",
+    "decimals": 18
+  },
+  "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a": {
+    "name": "SushiToken",
+    "logo": "polygon/sushi.png",
+    "erc20": true,
+    "symbol": "SUSHI",
+    "decimals": 18
+  },
+  "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+    "name": "USD Coin",
+    "logo": "polygon/usdc.png",
+    "erc20": true,
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
+    "name": "ChainLink Token",
+    "logo": "polygon/link.png",
+    "erc20": true,
+    "symbol": "LINK",
+    "decimals": 18
+  },
+  "0x172370d5cd63279efa6d502dab29171933a610af": {
+    "name": "CRV",
+    "logo": "polygon/crv.png",
+    "erc20": true,
+    "symbol": "CRV",
+    "decimals": 18
+  },
+  "0x50b728d8d964fd00c2d0aad81718b71311fef68a": {
+    "name": "Synthetix Network Token (PoS)",
+    "logo": "polygon/snx.png",
+    "erc20": true,
+    "symbol": "SNX",
+    "decimals": 18
+  },
+  "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603": {
+    "name": "Wootrade Network",
+    "logo": "polygon/woo.png",
+    "erc20": true,
+    "symbol": "WOO",
+    "decimals": 18
+  },
+  "0x5fe2b58c013d7601147dcdd68c143a77499f5531": {
+    "name": "Graph Token (PoS)",
+    "logo": "polygon/grt.png",
+    "erc20": true,
+    "symbol": "GRT",
+    "decimals": 18
+  },
+  "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756": {
+    "name": "TrueUSD",
+    "logo": "polygon/tusd.png",
+    "erc20": true,
+    "symbol": "TUSD",
+    "decimals": 18
+  },
+  "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57": {
+    "name": "Wrapped LUNA Token (PoS)",
+    "logo": "polygon/luna.png",
+    "erc20": true,
+    "symbol": "LUNA",
+    "decimals": 18
+  },
+  "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f": {
+    "name": "1inch",
+    "logo": "polygon/1inch.png",
+    "erc20": true,
+    "symbol": "1INCH",
+    "decimals": 18
+  },
+  "0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5": {
+    "name": "Fantom Token",
+    "logo": "polygon/ftm.png",
+    "erc20": true,
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42": {
+    "name": "Bella",
+    "logo": "polygon/bel.png",
+    "erc20": true,
+    "symbol": "BEL",
+    "decimals": 18
+  },
+  "0x11cd37bb86f65419713f30673a480ea33c826872": {
+    "name": "Ethereum  Wormhole ",
+    "logo": "polygon/eth.png",
+    "erc20": true,
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "0x61bdd9c7d4df4bf47a4508c0c8245505f2af5b7b": {
+    "name": "Axie Infinity",
+    "logo": "polygon/axs.png",
+    "erc20": true,
+    "symbol": "AXS",
+    "decimals": 18
+  },
+  "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d": {
+    "name": "Binance USD",
+    "logo": "polygon/busd.png",
+    "erc20": true,
+    "symbol": "BUSD",
+    "decimals": 18
+  },
+  "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+    "name": "Tether USD",
+    "logo": "polygon/usdt.png",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
+  "0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4": {
+    "name": "Solana",
+    "logo": "polygon/sol.png",
+    "erc20": true,
+    "symbol": "SOL",
+    "decimals": 18
+  },
+  "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+    "name": "Wrapped Ether",
+    "logo": "polygon/weth.png",
+    "erc20": true,
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  "0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec": {
+    "name": "SHIBA INU",
+    "logo": "polygon/shib.png",
+    "erc20": true,
+    "symbol": "SHIB",
+    "decimals": 18
+  },
+  "0xbbba073c31bf03b8acf7c28ef0738decf3695683": {
+    "name": "SAND",
+    "logo": "polygon/sand.png",
+    "erc20": true,
+    "symbol": "SAND",
+    "decimals": 18
+  },
+  "0xac51c4c48dc3116487ed4bc16542e27b5694da1b": {
+    "name": "Cosmos",
+    "logo": "polygon/atom.png",
+    "erc20": true,
+    "symbol": "ATOM",
+    "decimals": 6
+  },
+  "0x3cef98bb43d732e2f285ee605a8158cde967d219": {
+    "name": "Basic Attention",
+    "logo": "polygon/bat.png",
+    "erc20": true,
+    "symbol": "BAT",
+    "decimals": 18
+  },
+  "0x0000000000000000000000000000000000000000": {
+    "name": "Polygon",
+    "logo": "polygon/matic.svg",
+    "erc20": true,
+    "symbol": "MATIC",
+    "decimals": 18
+  },
+  "0x6f7c932e7684666c9fd1d44527765433e01ff61d": {
+    "name": "Maker",
+    "logo": "polygon/mkr.jpg",
+    "erc20": true,
+    "symbol": "MKR",
+    "decimals": 18
+  },
+  "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b": {
+    "name": "Avalanche Token",
+    "logo": "polygon/avax.png",
+    "erc20": true,
+    "symbol": "AVAX",
+    "decimals": 18
+  },
+  "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4": {
+    "name": "Decentraland MANA",
+    "logo": "polygon/mana.png",
+    "erc20": true,
+    "symbol": "MANA",
+    "decimals": 18
+  },
+  "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
+    "name": "Wrapped BTC",
+    "logo": "polygon/wbtc.png",
+    "erc20": true,
+    "symbol": "WBTC",
+    "decimals": 8
+  },
+  "0xda537104d6a5edd53c6fbba9a898708e465260b6": {
+    "name": "yearn.finance",
+    "logo": "polygon/yfi.png",
+    "erc20": true,
+    "symbol": "YFI",
+    "decimals": 18
+  }
+}
