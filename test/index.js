@@ -1,10 +1,11 @@
 const test = require('tape')
-const contractMap = require('../')
+let { contractMap, bscContractMap, polygonContractMap} = require('../')
 const permittedFields = require('../permitted-fields.json')
 
 const util = require('ethereumjs-util')
 const fs = require('fs')
 const path = require('path')
+contractMap = bscContractMap
 
 test('the object is parsable', function (t) {
   t.equal(typeof contractMap, 'object', 'is an object')
